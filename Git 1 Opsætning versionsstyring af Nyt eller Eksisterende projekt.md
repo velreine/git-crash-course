@@ -73,11 +73,11 @@ git commit -m "Initial commit, tilføjet .gitignore og en README.md"
 
 * 6a:
 
-![image-20200813203017383](C:\Users\Velreine\AppData\Roaming\Typora\typora-user-images\image-20200813203017383.png)
+![image-20200813203017383](./images/github-create-repository-1.png)
 
 * 6b:
 
-![image-20200813203138029](C:\Users\Velreine\AppData\Roaming\Typora\typora-user-images\image-20200813203138029.png)
+![image-20200813203138029](./images/github-create-repository-2.png)
 
 Vælg et repository **navn**, **UNDLAD** at tilføje en .gitignore og **LAD-VÆR** at "**Initialize this repository with a README**" ❌
 
